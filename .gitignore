@@ -351,3 +351,34 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/PDN.TPS.SupplierManagement.Api/bin/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.Api/obj
+/PDN.TPS.SupplierManagement.ApplicationService/obj
+/PDN.TPS.SupplierManagement.ApplicationService/bin/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.ApplicationService.Contract/obj
+/PDN.TPS.SupplierManagement.ApplicationService.Contract/bin/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.Domain/obj
+/PDN.TPS.SupplierManagement.Domain/bin/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.ApplicationService.Contract/Class1.cs
+/PDN.TPS.SupplierManagement.Domain.UnitTest/obj
+/PDN.TPS.SupplierManagement.Domain.UnitTest/bin/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.Domain/Class1.cs
+/PDN.TPS.SupplierManagement.DomainContract/obj
+/PDN.TPS.SupplierManagement.DomainContract/bin/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.Domain.UnitTest/PDN.TPS.SupplierManagement.Domain.UnitTest.csproj
+/PDN.TPS.SupplierManagement.Persistence/obj
+/PDN.TPS.SupplierManagement.Persistence/bin/Debug/netcoreapp3.1
+/DNT.TPS.SupplierManaement.ApplicationService.UnitTest/bin/Debug/netcoreapp3.1
+/DNT.TPS.SupplierManaement.ApplicationService.UnitTest/obj
+/PDN.TPS.SupplierManagement.Query.DataContext/obj
+/PDN.TPS.SupplierManagement.QueryService.Contracts/obj
+/PDN.TPS.SupplierManagement.DependencyConfig/obj/Debug/netcoreapp3.1
+/PDN.TPS.SupplierManagement.DependencyConfig/obj
+/PDN.TPS.SupplierManagement.QueryService/obj

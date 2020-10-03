@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PDN.TPS.SupplierManagement.ApplicationService.Contract\PDN.TPS.SupplierManagement.ApplicationService.Contract.csproj" />
+    <ProjectReference Include="..\PDN.TPS.SupplierManagement.Domain\PDN.TPS.SupplierManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
